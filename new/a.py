@@ -2,12 +2,17 @@ from pdf2image import convert_from_path, convert_from_bytes
 import os
 from PIL import Image
 import pytesseract
+import mysql.connector
+import pymysql
 
 cwd = os.getcwd()
 input_path = cwd +"/PDF/"
 destination_path = cwd +"/PPM/"
 image_save_path = cwd +"/PPM 2 JPG/"
 image_output_path = cwd + "/OCR/"
+
+mydb=pymysql.connect("localhost","root","Ace@3915","db")
+mycursor=mydb.cursor()
 
 def conversion(input_files):
 	try:
@@ -33,6 +38,7 @@ def conversion(input_files):
 
 		for x in input_files:
 			p=""
+			counter = 0
 			dest_path = image_save_path + x + '/'
 			ocr_files = [f for f in os.listdir(dest_path)]
 			for ocr_file in ocr_files:
@@ -42,6 +48,9 @@ def conversion(input_files):
 					os.makedirs(ocr_input_path)
 			f = open (ocr_input_path + x +".txt","w+")
 			f.write(p)
+			sql = "INSERT INTO data VALUES (counter, p)"
+			mycursor.execute(sql)
+			counter += 1
 
 	except:
 		return "Exception Occured"
@@ -55,3 +64,5 @@ if len(input_files)>0:
 	print(conversion(input_files))
 else:
 	print("There are no input PDF files. Please paste some files in PDF Folder")
+
+
