@@ -1,0 +1,744 @@
+Piramal REF: PHL-PV-HU-SOP-100013
+
+Version 6.0
+
+Suspected Adverse Event Report Form (Human)
+
+ 
+
+ 
+
+ 
+
+ 
+
+I consent to Piramal's use of this data to respond to my complaint. Any and all information collected will be kept secure and will not be sold, rented, loaned, or otherwise disclosed to anyone
+except to the drug regulatory agency to comply with regulatory obligations for monitoring of drug safety profile throughout life cycle of medicinal product. For more details regarding privacy
+policy, refer http://www. piramalcriticalcare.com/privacy-policy/ or write to us at dpo.criticalcare@piramal.com.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Patient Data: 2. Report: Select date
+Initials mae of Birth/ Gender: Height Weight Ethnicity eal Follow-up Final
+Female ~
+S mente dys ae wm 175 (cm/in)| 75 (kg/Ib) H
+No
+3. Patient’s Relevant Medical/ Surgical/ Drug/ Family history (use a separate page, if needed):
+Sr. No. |Condition/ Procedure/ Drug Start date Stop date |Comments, if any
+1. Drug 231 Select date Select date None
+Dx Drug 619 Select date Select date None
+3. Drug 718 Select date Select date None
+4. Paracetomol Select date Select date None
+5. Cipla Select date Select date None
+6. Dolo 650 Select date Select date None
+4. Suspected Pharmaceutical Products (use a separate page, if needed):
+Brand Name (Generic a Batch Number Route of ‘ Dose & Start Date/ Stop Date/
+Name) Manufacturer Indication & Expiry Date Administratio Frequency Time Time
+Dolo 650 Jay Industries No 32 & 22/12/19 Yes Daily Select date & Select date &
+
+ 
+
+ 
+
+ 
+
+PHL-PV-HU-TP-100003, V2.0
+
+Confidential and Proprietary
+The contents of this document are confidential and proprietary information of Piramal Enterprises Ltd. The unauthorized use, disclosure or reproduction is strictly
+
+prohibited.
+
+Page 1 of 36 Piramal
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REF: PHL-PV-HU-SOP-100013
+Version 6.0
+time time
+Select date & Select date &
+time time
+Select date & Select date &
+time time
+Select date & Select date &
+time time
+Use according to label Unknown Yes No Explain
+Previous Exposure and Reaction(s) to Primary suspect product: Yes No
+
+ 
+
+ 
+
+If yes, describe with AE, if any:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Concomitant Medication Details (Give the list of the other medicinal products used concurrently, use separate page if needed):
+Brand Name Indication Ponty Liaba. & Ad te of on Fraauandy Start Date Stop Date
+Select date Select date
+Select date Select date
+Select date Select date
+Select date Select date
+Select date Select date
+Select date Select date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Adverse Event (AE) Data (For all adverse event(s) reported following administration of suspect product):
+
+Adverse Event Serious (For Start Date/ Time 2 Stop Date/ Time Outcome Suspect Comments: (write
+Yes, choose 3 drug/s reason with contributory
+the criteria) a factors)
+
+°
+cheese a Select date & time Select date & time MHIEOSS ai
+item. item.
+Ec e Ct sea
+Choose an Select date & time Select date & time sulgese an
+item. item.
+Choose an Select date & time Select date & time Choose an
+PHL-PV-HU-TP-100003, V2.0 Confidential and Proprietary Page 2 of 46 Piramal REF: PHL-PV-HU-SOP-100013
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Version 6.0
+item. item.
+enp0se an Select date & time Select date & time spe an
+item. item.
+Choose an Choose an
+“ Select date & time Select date & time
+item. item.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+If multiple suspect drug then write the
+
+drug name with causality in comments
+section
+
+Action taken with Suspect product after adverse event Did event abate after stopping
+
+drug?/ De-challenge
+Withdrawn/ Permanently stopped Yes
+
+Did event reappear after
+reintroduction?/ Re-challenge
+
+ 
+
+ 
+
+ 
+
+Temporarily held
+
+ 
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No change
+
+ 
+
+ 
+
+ 
+
+Dose reduced No
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dose reduced
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Not Applicable/Unknown Not App Not Applicable
+Yes
+For fatal outcome, was a Post-Mortem/Autopsy NA No Autopsy report/death certificate available
+performed?
+No Yes (Please Attach)
+How was the adverse event treated? No treatment —
+Prescription drug [_], Please give details
+Other
+If the patient was enrolled in any clinical study, specify | Protocol No.:
+Patient no.:
+No
+Has this case been reported to Regulatory Authority?
+Yes Reference Number:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10.
+
+ 
+
+Reporter’s details
+
+ 
+
+ 
+
+Patient’s treating Physician details (if reporter is not the
+physician)
+
+ 
+
+ 
+
+ 
+
+PHL-PV-HU-TP-100003, V2.0 Confidential and Proprietary Page 3 of 4Version 6.0
+
+6 Piramal REF: PHL-PV-HU-SOP-100013
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Occupation
+
+ 
+
+Address:
+
+ 
+
+Tel. No:
+
+ 
+
+Email:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature:
+
+ 
+
+*Note: Template can be edited as per requirements.
+
+ 
+
+PHL-PV-HU-TP-100003, V2.0 Confidential and Proprietary Page 40f 4
