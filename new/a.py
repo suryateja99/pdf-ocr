@@ -15,7 +15,7 @@ mydb=pymysql.connect("localhost","root","Ace@3915","db")
 mycursor=mydb.cursor()
 
 def conversion(input_files):
-	try:
+
 		for x in input_files:
 			dest_file = input_path + x
 			dest_path = destination_path + x + '/'
@@ -48,15 +48,10 @@ def conversion(input_files):
 					os.makedirs(ocr_input_path)
 			f = open (ocr_input_path + x +".txt","w+")
 			f.write(p)
-			sql = "INSERT INTO data VALUES (counter, p)"
-			mycursor.execute(sql)
+			mycursor.execute('INSERT INTO data VALUES(%s,%s)',(counter,p))
+			mydb.commit()
 			counter += 1
 
-	except:
-		return "Exception Occured"
-
-	else:
-		return "conversion successfull"
 
 input_files = [f for f in os.listdir(input_path) if f.endswith('.pdf')]
 
